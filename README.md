@@ -6,10 +6,15 @@
 #### Oxu üçün linklər:
 
 https://www.w3schools.com/cs/cs_oop.php
+
 https://www.w3schools.com/cs/cs_classes.php
+
 https://www.w3schools.com/cs/cs_class_members.php
+
 https://www.w3schools.com/cs/cs_constructors.php
+
 https://www.w3schools.com/cs/cs_inheritance.php
+
 https://www.w3schools.com/cs/cs_polymorphism.php
 
 
@@ -34,3 +39,6 @@ https://www.w3schools.com/cs/cs_polymorphism.php
     - Userin Postları olsun. (Post Arrayı tipindən)
     - Postun Commentləri olsun. (Comment Arrayı tipindən)
     - Commentin Useri olsun. (User tipindən) (Kommenti yazan Useri ifadə edəcək)
+
+
+# Uğurlar!!!
